@@ -17,8 +17,7 @@
 </p>
 
 > Built at the **GenAI Lab, Technical University of Munich (TUM)** as a practical artifact of
-> research on AI-driven content creation. The repository is named `influenceos`; the project is
-> called PersonaAI.
+> research on AI-driven content creation.
 
 ## What it does
 
